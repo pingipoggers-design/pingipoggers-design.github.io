@@ -1,9 +1,9 @@
 var MAIN_LEVELS = [
 	[
 		"                                                                                ",
-		"                                                                                ",
-		"                                                                   o            ",
-		"                                                                  xxx           ",
+		"            !   ! !                                                             ",
+		"            !  B  !                                                o            ",
+		"             ! !  !                                               xxx           ",
 		"                                                                 xx!xx          ",
 		"                                                                 x!!!x          ",
 		"                                                                 xx!xx          ",
@@ -16,7 +16,7 @@ var MAIN_LEVELS = [
 		"  x                                                                            x",
 		"  x                       o              xxxxx                                 x",
 		"  x          xxxx                                                    P         x",
-		"  xB @    G  x  x                                                xxxxx    o   Ox",
+		"  xO @    G  x  x                                                xxxxx    o    x",
 		"  xxxxxxxxxxxx  xxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxx     xxxxxxx   xxxxxxxxxxx",
 		"                              x   x                  x     x                    ",
 		"                              x!!!x                  x!!!!!x                    ",
