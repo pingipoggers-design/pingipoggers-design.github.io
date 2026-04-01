@@ -1,5 +1,5 @@
 body {
-	background-image: url("https://i.postimg.cc/YSzhkbLX/Screenshot-2024-07-09-10-27-53.png");
+	background-color: grey;
 	background-size: 1450px 1150px;
 }
 
@@ -19,7 +19,7 @@ h2 {
 }
 
 .lava {
-	background: #e55;
+	background: red;
 }
 
 .actor {
@@ -28,7 +28,6 @@ h2 {
 
 .wall {
 	background: #444;
-	border: solid 3px #333;
 	box-sizing: content-box;
 }
 
@@ -37,21 +36,21 @@ h2 {
 }
 
 .coin {
-	background: #e2e838;
+	background: #ffffff;
 	border-radius: 50%;
 }
 
 .player {
-	background: #335699;
+	background: black;
 	box-shadow: none;
 }
 
 .lost .player {
-	background: #335699;
+	background: black;
 }
 
 .won .player {
-	background: #335699;
+	background: black;
 }
 
 .game {
@@ -62,7 +61,6 @@ h2 {
 /* Add styles for buttons and moving platforms */
 .platform {
 	background: #444;
-	border: solid 3px #333;
 	box-sizing: content-box;
 }
 
@@ -80,7 +78,6 @@ h2 {
 
 .ghost {
 	background: #444;
-	border: solid 3px #333;
 	box-sizing: content-box;
 }
 
@@ -93,7 +90,7 @@ h2 {
 }
 
 .Fakecoin {
-	background: #d1d730;
+	background: #ffffff;
 	border-radius: 50%;
 }
 
@@ -250,8 +247,6 @@ h2 {
 	background: radial-gradient(circle, #ff9d00 20%, #ff6a00 60%, #ff3c00 100%);
 	border: 3px solid #ffb347;
 	border-radius: 50%;
-	box-shadow: 0 0 15px #ff6a00, 0 0 30px #ff3c00;
-	animation: portalSpin 2s linear infinite;
 }
 
 .bluePortal {
@@ -259,7 +254,6 @@ h2 {
 	border: 3px solid #66ccff;
 	border-radius: 50%;
 	box-shadow: 0 0 15px #0099ff, 0 0 30px #0044ff;
-	animation: portalSpin 2s linear infinite reverse;
 }
 
 .fakeOrangePortal {
@@ -283,7 +277,6 @@ h2 {
 	border: 3px solid #00ff88;
 	border-radius: 50%;
 	box-shadow: 0 0 15px #00ff88, 0 0 30px #00cc66;
-	animation: portalPulse 1.5s ease-in-out infinite;
 }
 
 .purplePortal {
@@ -291,7 +284,6 @@ h2 {
 	border: 3px solid #d400ff;
 	border-radius: 50%;
 	box-shadow: 0 0 15px #d400ff, 0 0 30px #ae00ff, 0 0 45px #7a00cc;
-	animation: portalPulse 1.5s ease-in-out infinite;
 }
 
 /* Portal animations */
