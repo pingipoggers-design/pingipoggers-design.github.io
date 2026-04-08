@@ -17,7 +17,7 @@ var MAIN_LEVELS = [
 		"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
 		"                                                "
 	],
-  [
+	[
 		"                                                ",
 		"                           o                    ",
 		"                          xxx        x          ",
@@ -32,8 +32,9 @@ var MAIN_LEVELS = [
 		"pppppppppppppppp   xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
 		"xxxxxxxxxxxxxxxxgggxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
 		"xxxxxxxxxxxxxxxx!!!xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-		"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-		"  [
+		"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+	],
+	[
     "                                                ",
     "                           o                    ",
     "                          xxx        x          ",
@@ -44,7 +45,7 @@ var MAIN_LEVELS = [
     "                 xxx       xxx                  ",
     "                          xxxxx                 ",
     "                                                ",
-    "         @                           &           ",
+    "         @                           &          ",
     "xxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "xxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "xxxxxxxxxxxxxxxx!!!xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
@@ -75,7 +76,7 @@ var MAIN_LEVELS = [
     "                             x                                      ",
     "                                    x                               ",
     "                                        x                           ",
-    "                                                                    ",
+    "                                                 o                  ",
     "                                                 x                  ",
     "                                                                  ! ",
     "                                         p                        v ",
@@ -96,7 +97,7 @@ var MAIN_LEVELS = [
     "                                                                                                                                  ",
     "                                                                                                                                  ",
     "                                                                                                                                  ",
-    "                                                                                                                                ",
+    "                                                                                                                                  ",
     "                                                                                                      om                          ",
     "                                                                                                                                  ",
     "                                                                                                      xx                          ",
@@ -105,8 +106,8 @@ var MAIN_LEVELS = [
     "xxxxxxxxxxxxxxxxxxxxxxx!!!!!!!===!!!!!!xxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxx                                                ",
     "xxxxxxxxxxxxxxxxxxxxxxxxx!!!!!===!!!xxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           xx                          ",
     "xxxxxxxxxxxxxxxxxxxxxxxxxxx!!!===!xxxxxxxxxxxxxxxxxxxxxxx   B                                    xx                               ",
-    "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx!gmg!xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                                    ",
-    "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                                                                                    
+    "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx! m !xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                                    ",
+    "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                                         "                                          
 ]	
 ];
 function Vector(x, y) {
